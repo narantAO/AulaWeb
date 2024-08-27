@@ -1,0 +1,13 @@
+body{ background-color: rgb(195, 192, 139);
+      font-family: Arial, Helvetica, sans-serif;      
+}
+.centraliza{
+    text-align: center;
+}
+
+#centro{
+    display: inline-flex;
+}
+li{
+    padding: 0.6%;
+}
