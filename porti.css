@@ -1,13 +1,25 @@
 body{ background-color: rgb(195, 192, 139);
       font-family: Arial, Helvetica, sans-serif;      
 }
-.centraliza{
+header{
     text-align: center;
+    border-bottom: 10px;
+}
+header h1{
+    font-size: xx-large;
+    padding-top: 10px;
 }
 
-#centro{
-    display: inline-flex;
+header p{
+    font-size: larger;
 }
-li{
-    padding: 0.6%;
+.foto{
+    border-radius: 100%;
+    height: 200px;
+}
+
+.idi ul li{
+    text-align: center;
+    display: inline-block;
+    color: black;
 }
